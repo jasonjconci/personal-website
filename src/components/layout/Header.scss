@@ -1,0 +1,15 @@
+.headerContainer {
+    display: inline-flex;
+    flex-direction: row;
+    justify-content: right;
+    gap: 20px;
+    width: 100%;
+    align-self: right;
+    margin: 20px 0px;
+    .headerItem {
+        padding: 4px;
+        :hover {
+            cursor: pointer;
+        }
+    }
+}

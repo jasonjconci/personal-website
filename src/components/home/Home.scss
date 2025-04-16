@@ -1,0 +1,28 @@
+@import '../../Assets/_variables.scss';
+
+.home {
+    width: 100%;
+    .section {
+        width: 100%;
+        display: flex;
+        flex-direction: row;
+        &.intro {
+            background-color: $palette-two;
+        }
+        &.about {
+            background-color: $palette-one;
+        }
+        .column {
+            width: 50%;
+        }
+    }
+}
+
+.vertical {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    & .gap {
+        gap: 10px;
+    }
+}

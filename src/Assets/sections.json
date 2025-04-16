@@ -1,0 +1,17 @@
+[
+    {
+        "name": "Home",
+        "route": "home",
+        "icon": ""
+    },
+    {
+        "name": "About",
+        "route": "about",
+        "icon": ""
+    },
+    {
+        "name": "Resume",
+        "route": "resume",
+        "icon": ""
+    }
+]

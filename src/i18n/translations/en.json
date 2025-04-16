@@ -1,0 +1,14 @@
+{
+    "hello": "Hello",
+    "name": "Jason Conci",
+    "home": {
+        "introduction": "I'm {{name}}"
+    },
+    "intro": {
+        "let-me-introduce-myself": "Let me introduce myself",
+        "about-me-1": "I've spent my life in pursuit of making things - so it didn't surprise anyone that I fell in love with programming.",
+        "about-me-2": "I'm most experienced in new-age things like Python and Javascript, but familiar with the classics like Java and C++.",
+        "about-me-3": "I'm particularly interested in web technologies, and enjoy full stack development.",
+        "about-me-4": "Whenever I can, I love to help friends & charities bring their ideas to life, and explore new web frameworks & programming ideas."
+    }
+}
